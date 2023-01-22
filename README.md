@@ -3,3 +3,7 @@
 
 # 使用方法
 拉取autouamcontrol.sh后运行。按照提示操作即可！
+```
+wget https://raw.githubusercontent.com/csh733/autouam/main/autouamcontrol.sh && bash autouamcontrol.sh
+```
+### 详细教程地址：https://www.sakurabox.io/cloudflareautouam.html
