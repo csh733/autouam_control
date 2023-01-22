@@ -36,12 +36,12 @@ function menu {
 echo
 echo -e "自动开盾功能菜单"
 echo -e "By: Connor"
-echo -e "URL: https://www.sakurabox.io\n\n"
+echo -e "URL: https://www.sakurabox.io\n"
 echo -e "1. 安装自动开盾"
 echo -e "2. 启动自动开盾" 
 echo -e "3. 停止自动开盾" 
 echo -e "4. 显示自动开盾状态" 
-echo -e "0. 退出菜单\n\n"
+echo -e "0. 退出菜单\n"
 echo -en "请选择:" 
 read -n 1 option
 }
