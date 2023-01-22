@@ -6,7 +6,7 @@ function install {
 echo -e "\n"
 echo -e '即将开始下载，请确认系统中已安装 screen 软件包！\n'
 sleep 3
-wget https://raw.githubusercontent.com/jiuqi9997/autouam/main/autouam.sh -O uam.sh
+wget https://raw.githubusercontent.com/csh733/autouam/main/autouam.sh -O uam.sh
 echo -e '下载完成，请先按教程正确配置后再启动！'
 echo -e '教程地址： https://www.sakurabox.io/cloudflareautouam.html\n'
 break
