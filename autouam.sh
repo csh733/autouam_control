@@ -1,17 +1,10 @@
 #!/bin/bash
 
-#
-# Usage:
-# screen -dmS autouam &&
-# screen -x -S autouam -p 0 -X stuff "bash /root/autouam.sh" &&
-# screen -x -S autouam -p 0 -X stuff $'\n'
-#
-
 mode="load"
-# 两种模式可选，一：load (负载) 二：cpu
+# 两种模式可选，一：load (负载) 二：cpu。建议选 load
 
 challenge="1"
-# 是否同时开启验证码质询 设为1即开启
+# 是否同时开启验证码质询 设为1即开启。建议开启
 
 keeptime="30"
 # ≈开盾最小时间，如60 则开盾60秒内负载降低不会关，60秒后关
