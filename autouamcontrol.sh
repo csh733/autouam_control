@@ -14,7 +14,7 @@ break
 
 function start {
 echo -e "\n"
-screen -dmS autouam && screen -x -S autouam -p 0 -X stuff "bash autouam.sh" && screen -x -S autouam -p 0 -X stuff $'\n'
+screen -dmS autouam && screen -x -S autouam -p 0 -X stuff "bash uam.sh" && screen -x -S autouam -p 0 -X stuff $'\n'
 echo -e '\n成功启动自动开盾'
 }
 
