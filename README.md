@@ -6,4 +6,4 @@
 ```
 wget https://raw.githubusercontent.com/csh733/autouam/main/autouamcontrol.sh && bash autouamcontrol.sh
 ```
-### 详细教程地址：https://www.sakurabox.io/cloudflareautouam.html
+### 详细教程地址：https://bitpd.com/cloudflareautouam.html
